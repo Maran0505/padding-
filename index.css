@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+.c{
+    border: 5px solid red;
+    display: flex;
+}
+
+.cl1{
+   
+    width: 200px;
+    height: 200px;
+    border: 10px solid;
+    margin: 50px;
+    padding: 50px;
+}
+
+.cl1 p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 50px;
+    margin: 20px;
+    background-color: aqua;
+    border: 5px solid;
+}
+.cl2{
+   
+    width: 200px;
+    height: 200px;
+    border: 10px solid;
+    margin: 50px;
+    padding: 50px;
+}
+
+.cl2 p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 50px;
+    margin: 20px;
+    background-color: aqua;
+    border: 5px solid;
+
+}
